@@ -21,7 +21,7 @@
 title: adrbn
 email: test@test.com
 description: >- # this means to ignore newlines until "baseurl:"
-  creative french boy looking to help building a better world
+  creative french boy looking to help build a better world
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: adrbn
