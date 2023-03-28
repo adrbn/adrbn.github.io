@@ -30,7 +30,7 @@ twitter_username: adrbn
 github_username:  adrbn
 
 # Build settings
-theme: minimal
+theme: jeykll-theme-minimal
 plugins:
   - jekyll-feed
 
